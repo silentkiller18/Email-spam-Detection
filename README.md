@@ -54,6 +54,49 @@ Credits to the UCI Machine Learning Repository for providing the Spambase Datase
 
 ### Feel free to customize it further according to your preferences!
 
+## Samples for Notspam✅-
+```Hi Team,
+
+I hope everyone is doing well. I wanted to provide an update on the XYZ project. We have completed the initial phase and are moving on to the next steps. Please find the attached report for detailed information.
+
+Let me know if you have any questions.
+
+Best,
+[Your Name]
+```
+```
+Hi Everyone,
+
+I hope this email finds you well. I'm excited to announce that we are planning a family reunion next month. It will be held at Grandma's house on July 15th. Please let me know if you can make it and if you need any help with travel arrangements.
+
+Looking forward to seeing you all!
+
+Love,
+[Your Name]
+```
+## Samples for Spam ❌-
+```
+Dear Winner,
+
+We are pleased to inform you that you have won $1,000,000 in our online lottery draw. To claim your prize, please provide your personal details and bank account information.
+
+Reply to this email with your full name, address, and phone number.
+
+Congratulations once again!
+
+Best Regards,
+Lottery Commission
+```
+```
+Hello,
+
+Do you want to earn $500 daily from the comfort of your home? Join our program today and start making money instantly. No experience needed!
+
+Sign up here: [malicious link]
+
+Best regards,
+Easy Money Program
+```
 ## ScreenShots📷
 
 
